@@ -10,9 +10,9 @@
 
 ### Edit the Homepage
 
-Edit this [page](#)
-Change the title 
+Edit this [file](https://github.com/Tuckpiece/tuckpiece.github.io/edit/master/_posts/2016-01-03-homepage.md)
+
 
 ## Edit the About Page
 
-
+Edit this [file](https://github.com/Tuckpiece/tuckpiece.github.io/edit/master/pages/about.md)
