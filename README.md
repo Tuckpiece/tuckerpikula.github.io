@@ -13,7 +13,8 @@
 ### Volleyball
 
 * Edit the [Volley Page](https://github.com/Tuckpiece/tuckpiece.github.io/edit/master/pages/volleyball.md)
-* Edit Videos: Add / Replace **.mp4** videos [here](https://github.com/Tuckpiece/tuckpiece.github.io/tree/master/assets)
+* Edit Videos: Add / Replace **.mp4** videos [here](https://github.com/Tuckpiece/tuckpiece.github.io/tree/master/videos/volleyball)
+* The order of the videos is determined by the beginning of the filename
 
 ### Coming Soon
 * Edit links
