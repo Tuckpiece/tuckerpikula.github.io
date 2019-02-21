@@ -24,13 +24,14 @@
           </header>
 
       <main>
+        <div class="contentContainer">
         {{ content }}
-        
+        </div>
   {% for video in site.static_files %}
     {% if video.path contains 'videos/volleyball' %}
 
     <div class="volleyballVideoContainer">
-      <video width="800" controls type="application/mp4">
+      <video width="600" controls type="application/mp4">
           <source src="{{ site.baseurl }}{{ video.path }}" type="video/mp4">
           <!-- <source src="mov_bbb.ogg" type="video/ogg"> -->
           Your browser does not support HTML5 video.
