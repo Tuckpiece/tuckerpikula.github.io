@@ -1,0 +1,32 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Tucker Pikula
+tagline:             ""
+url:                 http://tuckerpikula.com
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Tucker Pikula
+  url:               http://tuckerpikula.com
+  email:             pikulatucker@gmail.com
+
+# Custom vars
+version:             0.0.1
+github:              
+  repo:              https://github.com/Tuckpiece/tuckerpikula.github.io
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
