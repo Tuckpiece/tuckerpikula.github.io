@@ -4,21 +4,7 @@ title: About
 permalink: about
 ---
 
-Blue center field airmail leadoff series defensive indifference pennant. Foul line dodgers blue forkball passed ball, can of corn astroturf. Bag left field crooked number plate leather rip sidearm. Practice in the hole losses fan robbed rhubarb all-star gold glove. Yankees good eye left fielder dribbler bleeder 1-2-3 ejection field steal. Reliever pennant rainout take helmet pull foul pole.
+Hello,
+My name is Tucker Pikula and I am a recent graduate from the University of California, Irvine.  I was blessed with the opportunity to play Division 1 volleyball at one of the most prestigious public schools in the country.  Being a student-athlete has definitely changed who I am and how I perceive things.  I treat tasks given to me the same way I would compete for a championship - relentless precision and perfection.  I'm currently an assistant varsity volleyball coach for Mater Dei high school.  I'm hoping to lineup a job or intership after the season ends around April.  I'm open to basically anything in the business field as I just need to get experience under my belt and learn more about myself outside the world of athletics.  I'm a very hard working individual and all I need is a chance to prove myself.  Trust me, I won't disappoint you.
 
-Center fielder bush league plunked left field pinch runner force play double play. Cup of coffee world series in the hole reliever knuckleball center field base mendoza line. Outs walk off dodgers rip small ball, fastball arm. Astroturf run batted in center fielder first baseman tossed steal backstop. Suicide squeeze cubs screwball cellar bush league on-base percentage away line drive. Run pitchout rotation cubs bag breaking ball manager outfield.
-
-
-## And Also
-
-Inside hall of fame sacrifice doubleheader pinch runner arm skipper steal. Away error rake loss range bullpen out wins rope. Moneyball unearned run strike zone out count, batter's box nubber bunt game. Gold glove out choke up breaking ball center fielder balk pull rookie all-star. Backstop fall classic team win triple play scorecard game slugging. Cork league second base tigers check swing count yankees corner.
-
-
-Some meaningless phrases:
-
-* Line drive streak rubber game relief pitcher defensive indifference, fastball cookie.
-* Bush league designated hitter pinch hitter cycle reds take bleeder peanuts southpaw.
-* Triple play batting average manager rainout shift no decision 4-bagger bat cork. 
-* Friendly confines suicide squeeze bandbox first base hardball count full count. 
-
-Thanks for reading!
+Thanks for checking out my page!
