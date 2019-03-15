@@ -38,6 +38,12 @@ $outline: 0;
 //     }
 //   }
 
+@font-face{
+    font-family: "Sunset Boulevard";
+    src: url("../_assets/fonts/Sunset Boulevard.ttf");
+
+}
+
 #homepageContent{
     padding-top: 20px;
     text-transform: uppercase;
@@ -49,12 +55,14 @@ $outline: 0;
     left: 50%;
     transform: translate(-50%, -50%);
     position: absolute;
-    color: $red;
-    text-shadow: 
-            -1px -1px 0 $purple, 1px -1px 0 $purple, -1px 1px 0 $purple, 1px 1px 0 $purple, 
-            1px 0px 0px $green, 0px 1px 0px $green, 2px 1px 0px $green, 1px 2px 0px $green, 3px 2px 0px $green, 2px 3px 0px $green, 4px 3px 0px $green, 3px 4px 0px $green, 5px 4px 0px $green,
-            3px 5px 0px $purple, 6px 5px 0px $purple, 
-            -1px 2px 0 black, 0 3px 0 $purple, 1px 4px 0 $purple, 2px 5px 0px $purple;
+    font-family: "Sunset Boulevard";
+    // color: $red;
+    
+    // text-shadow: 
+    //         -1px -1px 0 $purple, 1px -1px 0 $purple, -1px 1px 0 $purple, 1px 1px 0 $purple, 
+    //         1px 0px 0px $green, 0px 1px 0px $green, 2px 1px 0px $green, 1px 2px 0px $green, 3px 2px 0px $green, 2px 3px 0px $green, 4px 3px 0px $green, 3px 4px 0px $green, 5px 4px 0px $green,
+    //         3px 5px 0px $purple, 6px 5px 0px $purple, 
+    //         -1px 2px 0 black, 0 3px 0 $purple, 1px 4px 0 $purple, 2px 5px 0px $purple;
 }
 
 .navText {
