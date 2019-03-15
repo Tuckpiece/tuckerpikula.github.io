@@ -30,6 +30,12 @@ $purple:#fff;
 
 $outline: 0;
 
+@media screen and (min-width: 1024px) {
+    body {
+        background-size: contain;
+    }
+  }
+
 #homepageContent{
     padding-top: 20px;
     text-transform: uppercase;
